@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://mohammedisam16102001-s-workspace-m1te8p.ap-southeast-2.xata.sh/db/snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
